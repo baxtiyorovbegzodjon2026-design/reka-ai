@@ -6,3 +6,13 @@ pydantic-settings
 python-dotenv
 google-generativeai
 rdkit-pypi
+sqlalchemy
+alembic
+psycopg2-binary
+python-multipart
+jwt
+google-auth
+bcrypt
+email-validator
+python-dateutil
+timezone
